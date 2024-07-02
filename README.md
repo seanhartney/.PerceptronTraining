@@ -7,3 +7,8 @@ The goal for this file is to be a blueprint for further machine learning algorit
 being a file I can use and change varibles to train on another simple dataset. 
 (This file was originally tested and debugged in Google Colab)
 
+Included in the file are several test cases that can be used to assess performance of the member functions.
+There are also comments and notes about how to implement datasets and where to change default iteration and learning rate values.
+
+The perceptron uses the following formula:
+y^=f(b+w1x1+w2x2+w3x3+⋯+wMxM)
